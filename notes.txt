@@ -1,0 +1,54 @@
+
+1. luxuria (lechery/lust)
+2. gula (gluttony)
+3. avaritia (avarice/greed)
+4. acedia (acedia/discouragement/sloth)
+5. ira (wrath)
+6. invidia (envy)
+7. superbia (pride)
+
+Need to get pictures from Dante's inferno
+
+In the beginning was the
+
+    void
+
+    (put that in code style)
+
+-or-
+
+In the beginning was the Word and the Word was with God and the Word was
+God.
+
+    int main (int argc, char **argv) {
+        printf("Hello World");
+        return 0;
+    }
+
+When Man (and Woman) first started programming we were in a Paradise; but then
+due to our most human failings we fell from grace and were cast out.
+
+(picture of Alan Turing, Ada Lovelace)
+
+(picture of Adam and Eve cast out of the garden)
+
+Luxuria:
+
+Gula:
+    We want our program to do all things.  Every feature must be in it!
+
+Avaritia:
+    We covet
+
+Acedia:
+    We do things quickly; we don't keep the code clean; we let tests break.
+
+Ira:
+    We 
+
+Invidia:
+    We wish our code did all the cool things that we see other programs doing.
+
+Superbia:
+    We think we know what is best; that everyone else is wrong.
+
